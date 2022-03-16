@@ -1,1 +1,1 @@
-# rsschool-cv
+https://maxthegrandmagus.github.io/rsschool-cv/cv
