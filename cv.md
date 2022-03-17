@@ -23,7 +23,7 @@ Hi there, My name's Max, I'm 23 years old. Interested in building web apps and s
 ## Code example:
 **RGB To Hex Conversion from Codewars:**<br> 
 *Write a function that passing in RGB decimal values will result in a hexadecimal representation being returned. Valid decimal values for RGB are 0 - 255. Any values that fall out of that range must be rounded to the closest valid value.*
-```
+```javascript
 function rgb(r, g, b) {
   const toHex = (value) => {
     if(value < 0) {
@@ -57,6 +57,6 @@ console.log(rgb(140, 23, 15))
 ## Languages: 
 * English: Upper-intermediate
   * according to the [EFSET](https://www.efset.org/)<br>
-  ![EFSET Test Result](/assets/efset-test.jpg)
+  ![EFSET Test Result](/assets/efset-test.png)
 * Russian - Proficiency
 * Kyrgyz - Native
