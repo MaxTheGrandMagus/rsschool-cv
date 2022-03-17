@@ -41,7 +41,7 @@ console.log(rgb(140, 23, 15))
 ```
 
 ## Experience:
-* **Neobis** *(Jan 2020 - Jan 2021)*:  Started as a trainee, took courses inside the company, developed two projects from scratch with team, also participated in teaching and mentoring students
+* **Neobis** *(Jan 2020 - Jan 2021)*:  Started as an intern, took courses inside the company, developed two projects from scratch with team, also participated in teaching and mentoring students
 * **Discovery Studio** *(Oct 2021 - Feb 2022)*: Worked in a team of designing and developing the Ethereum web application based on smart contracts with the metamask extension
 
 ## Education:
