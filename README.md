@@ -1,1 +1,1 @@
-https://maxthegrandmagus.github.io/rsschool-cv/cv
+https://maxthegrandmagus.github.io/rsschool-cv/
