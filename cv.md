@@ -55,8 +55,6 @@ console.log(rgb(140, 23, 15))
   * React and TypeScript *by Stephen Grider* - currently taking this course
 
 ## Languages: 
-* English: Upper-intermediate
-  * according to the [EFSET](https://www.efset.org/)<br>
-  ![EFSET Test Result](/assets/efset-test.png)
-* Russian - Proficiency
+* English: C1 (Advanced), [EFSET Certificate](https://www.efset.org/cert/r5NpGv)
+* Russian - Proficient
 * Kyrgyz - Native

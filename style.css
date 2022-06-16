@@ -305,6 +305,14 @@ aside .languages ul .languages__item__lang-wrapper .languages__item__lang-level 
   font-weight: 400;
 }
 
+aside .languages ul .languages__item__lang-wrapper .languages__item__lang-level.english {
+  text-decoration: none;
+}
+
+aside .languages ul .languages__item__lang-wrapper .languages__item__lang-level.english:hover {
+  text-decoration: underline;
+}
+
 aside .aside-titles {
   font-family: 'DM Sans', sans-serif;
   letter-spacing: 0.01em;
