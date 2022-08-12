@@ -7,16 +7,16 @@
 **Linkedin:** [maxbatyrov](https://www.linkedin.com/in/maxbatyrov/)<br>
 
 ## About me:
-Hi there, My name's Max, I'm 23 years old. Interested in building web apps and services which can help people. Looking for a creative and progressive company, where my skills and knowledge are utilized in the maximum possible way. I'm a curious learner, meticulous in details and a team player. I've worked for two companies as a developer for a total of one and a half years. During this time, I managed to be as an intern, developer and mentor. Developed applications, as an educational as applications that were released into production.
+Hi there 👋, My name's Max. Interested in building web apps and services which can help people. Looking for a creative and progressive company, where my skills and knowledge are utilized in the maximum possible way. I'm a curious learner, meticulous in details and a team player. I've worked for two companies as a developer for a total of one and a half years. During this time, I managed to be as an intern, developer and mentor. Developed applications, as an educational as applications that were released into production.
 
 ## Skills:
-* **HTML** (HTML5, Pug, Semantic, Adaptive, Cross-Browser)
-* **CSS** (SCSS/LESS, BEM, Bootstrap/Tailwind, Material/Ant Design/Element-Plus)
+* **HTML** (HTML5, Semantic, Adaptive, Cross-Browser)
+* **CSS** (SASS/LESS, BEM, Bootstrap/Tailwind, Material/Ant Design/Element-Plus)
 * **Javascript, Typescript**
 * **React** (ContextApi, react-hook-form, Redux - thunk/saga/rtk)
 * **Vue** (v.2-3, VueX)
 * **REST API, GraphQL**
-* **Git, Webpack/esbuild, eslint/prettier**
+* **Git, Webpack/Vite, eslint/prettier**
 * **NodeJS** (ExpressJS, NestJS)
 * little experience with **NestJS, TypeORM, MongoDB, Docker, nginx, pm2**
 
@@ -41,7 +41,7 @@ console.log(rgb(140, 23, 15))
 ```
 
 ## Experience:
-* **Neobis** *(Jan 2020 - Jan 2021)*:  Started as an intern, took courses inside the company, developed two projects from scratch with team, also participated in teaching and mentoring students
+* **Neobis** *(Dec 2019 - May 2021)*:  Started as an intern, took courses inside the company, developed two projects from scratch with team, also participated in teaching and mentoring students
 * **Discovery Studio** *(Oct 2021 - Feb 2022)*: Worked in a team of designing and developing the Ethereum web application based on smart contracts with the metamask extension
 
 ## Education:
